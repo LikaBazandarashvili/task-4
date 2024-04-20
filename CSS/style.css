@@ -1,0 +1,113 @@
+.container{
+	width: 1291px;
+	margin: 0 auto;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 44px;
+}
+
+li {
+	display: inline-block;
+	margin-left: 90px;
+}
+
+.html{
+	margin-top: 54px;
+	margin-left: 52px;
+	vertical-align: middle;
+}
+
+a{	height: 34px;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.A{
+	width: 115px;
+	color: #4E6FAE;
+}
+
+.A2{
+	width: 150px;
+	color: #8D81FF;
+}
+
+.A3{
+	width: 133PX;
+	color: #8D81FF;
+}
+
+.DIV{
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: px;
+	margin-top: 44px;
+	margin-left: 52px;
+	padding:12px ;
+}
+
+.H3{
+	width: 119px;
+	height: 34px;
+	color: #8D81FF;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 52px;
+	margin-top: 18px;
+}
+
+.H4{
+	width: 578px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: "GL Tatishvili Metal";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 9px;
+	margin-left: 52px;
+	margin-bottom: 13px;
+}
+
+.img1{
+/*	margin-top: 13px;*/
+	margin-left: 52px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.div-1{
+	vertical-align: top;
+	display: inline-block;
+	width: 778px;
+	height: 353px;
+}
+
+.P{
+	margin-bottom: 20px;
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 66px;
+
+
+}
