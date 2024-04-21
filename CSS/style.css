@@ -86,7 +86,6 @@ a{	height: 34px;
 }
 
 .img1{
-/*	margin-top: 13px;*/
 	margin-left: 52px;
 	display: inline-block;
 	vertical-align: top;
@@ -165,3 +164,152 @@ a{	height: 34px;
 	margin-top: 145px;
 
 }
+
+.container-1{
+	width: 1096px;
+	margin: 0 auto;
+
+.my-img{
+	margin-top: 97px;
+}
+
+.h-3{
+	width: 150px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.h_3{
+	width: 2px;
+	height: 24px;
+	background: #5012D5;
+	margin-top: 120px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 17px;
+}
+
+.H_3{
+	width: 484px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.DIV-1{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-top: 26px;
+	padding-top: 21px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.item{
+	width: 307px;
+	color: #3F4145;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 23px;
+}
+
+.item1{
+	margin-top: 30px;
+	margin-left: 36px;
+	vertical-align: top;
+}
+
+.item2{
+	width: 335px;
+	height: 95px;
+	color: #7E8898;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 21px;
+	margin-left: 37px;
+}
+
+.DIV-2{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-top: 26px;
+	padding-top: 21px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 52px;
+}
+
+.item3{
+	width: 307px;
+	color: #3F4145;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 29px;
+}
+
+.item4{
+	margin-top: 24px;
+	margin-left: 38px;
+	vertical-align: top;
+}
+
+.item5{
+	width: 335px;
+	height: 95px;
+	color: #7E8898;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 24px;
+	margin-left: 19px;
+}
+
+.img-3{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 143px;
+}
+
+.img-4{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 145px;
+}
+
+
+.item-1{
+	margin-left: 194px;
+}
+
